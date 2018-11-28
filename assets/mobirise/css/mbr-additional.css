@@ -1116,7 +1116,7 @@ body {
 }
 .cid-raiLsdSyUg {
   z-index: 1;
-  background-image: url("../../../assets/images/schliff-1024x768.jpg");
+  background-image: url("../../../assets/images/schliff2-1-2000x1125.jpg");
 }
 .cid-raiLsdSyUg .mbr-arrow {
   background: #000000 !important;
@@ -1259,14 +1259,21 @@ body {
     margin: 0 !important;
   }
 }
+.cid-raiLsdSyUg .mbr-section-subtitle,
+.cid-raiLsdSyUg .underline {
+  text-align: left;
+}
+.cid-raiLsdSyUg .mbr-section-title {
+  text-align: left;
+}
 .cid-raiM2oFEdi {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #232323;
+  background-color: #3f855b;
 }
 .cid-raiM2oFEdi .line {
-  background-color: #3f855b;
-  color: #3f855b;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1283,7 +1290,7 @@ body {
   }
 }
 .cid-raiLMx062Y {
-  background-color: #3f855b;
+  background-color: #000000;
 }
 .cid-raiLMx062Y .img-wrap {
   width: 100% !important;
@@ -1379,6 +1386,13 @@ body {
 .cid-raiLMx062Y .mbr-text,
 .cid-raiLMx062Y .mbr-section-btn {
   color: #fcfcfc;
+}
+.cid-raiLMx062Y .mbr-section-title {
+  color: #ffffff;
+}
+.cid-raiLMx062Y .mbr-section-subtitle,
+.cid-raiLMx062Y .underline {
+  color: #c19b76;
 }
 .cid-raiLYVPA19 {
   padding-top: 45px;
@@ -1496,28 +1510,6 @@ body {
   box-shadow: none;
   background: transparent !important;
 }
-.cid-raiEEgMYCG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #3f855b;
-}
-.cid-raiEEgMYCG .underline .line {
-  width: 2rem;
-  height: 1px;
-  background: #878787;
-  display: inline-block;
-}
-.cid-raiEEgMYCG .mbr-text {
-  margin: 0;
-}
-@media (max-width: 767px) {
-  .cid-raiEEgMYCG .title {
-    width: 100% !important;
-  }
-}
-.cid-raiEEgMYCG .mbr-section-title {
-  color: #ffffff;
-}
 .cid-raiHs96ja4 {
   background-color: #000000;
 }
@@ -1620,10 +1612,18 @@ body {
     text-align: left;
   }
 }
+.cid-raiHs96ja4 .mbr-text,
+.cid-raiHs96ja4 .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-raiHs96ja4 .mbr-section-subtitle,
+.cid-raiHs96ja4 .underline {
+  color: #c19b76;
+}
 .cid-raiEFnpmFi {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #3f855b;
+  background-color: #ffffff;
 }
 .cid-raiEFnpmFi .underline .line {
   width: 2rem;
@@ -1736,6 +1736,36 @@ body {
     text-align: left;
   }
 }
+.cid-raiHsKHNMT .mbr-section-subtitle,
+.cid-raiHsKHNMT .underline {
+  color: #c19b76;
+}
+.cid-raiHsKHNMT .mbr-text,
+.cid-raiHsKHNMT .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-raJmeLEx7F {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-raJmeLEx7F .underline .line {
+  width: 2rem;
+  height: 1px;
+  background: #878787;
+  display: inline-block;
+}
+.cid-raJmeLEx7F .mbr-text {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-raJmeLEx7F .title {
+    width: 100% !important;
+  }
+}
+.cid-raJmeLEx7F .mbr-section-title {
+  color: #ffffff;
+}
 .cid-raiIJfZEPT {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1806,7 +1836,7 @@ body {
   padding-top: 60px;
   padding-bottom: 60px;
   z-index: 1;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-raiMerjIkG .underline .line {
   width: 2rem;
@@ -2002,7 +2032,7 @@ body {
 .cid-raiG2WXqCX {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/molsheim-1-1920x1280.jpg");
 }
 .cid-raiG2WXqCX .underline .line {
   width: 2rem;
@@ -2078,6 +2108,12 @@ body {
   .cid-raiG2WXqCX .form-subtitle {
     text-align: center;
   }
+}
+.cid-raiG2WXqCX .form-title {
+  color: #ffffff;
+}
+.cid-raiG2WXqCX .form-text {
+  color: #ffffff;
 }
 .cid-raiGBIQxWe {
   padding-top: 15px;
