@@ -1769,7 +1769,7 @@ body {
 .cid-raiIJfZEPT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-20181124-110632-2000x1125.jpg");
+  background-image: url("../../../assets/images/img-20181124-93146-2000x1125.jpg");
 }
 .cid-raiIJfZEPT .underline .line {
   width: 2rem;
@@ -1829,6 +1829,72 @@ body {
 }
 @media (min-width: 992px) {
   .cid-raiIJfZEPT .table {
+    margin-bottom: 0;
+  }
+}
+.cid-raVyTrfDvD {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/img-20181124-110632-2000x1125.jpg");
+}
+.cid-raVyTrfDvD .underline .line {
+  width: 2rem;
+  height: 1px;
+  background: #ffffff;
+  display: inline-block;
+}
+.cid-raVyTrfDvD .table {
+  margin-bottom: 0;
+}
+.cid-raVyTrfDvD .table .table-wrapper {
+  padding: 2rem;
+  background: #ffffff;
+  position: relative;
+}
+.cid-raVyTrfDvD .table .table-wrapper .table-head-wrapper {
+  background: #3f855b;
+  margin: -2rem;
+  margin-bottom: 0 !important;
+  padding: 2rem;
+  padding-bottom: 0 !important;
+}
+.cid-raVyTrfDvD .table .table-wrapper .table-head-wrapper span {
+  width: 100%;
+  display: block;
+}
+.cid-raVyTrfDvD .table .table-wrapper .table-purchase {
+  padding-bottom: 2rem;
+}
+.cid-raVyTrfDvD .table .table-wrapper .table-purchase .table-pricing {
+  margin: 0;
+  margin-top: .5rem !important;
+}
+.cid-raVyTrfDvD .table .table-wrapper .list-group {
+  list-style: none;
+  padding-top: 2rem;
+}
+.cid-raVyTrfDvD .table .table-wrapper .list-group li {
+  padding: .4rem;
+  border-bottom: 1px solid #efefef;
+}
+.cid-raVyTrfDvD .table .table-wrapper .list-group li .mbr-iconfont {
+  font-size: 30px;
+}
+@media (max-width: 767px) {
+  .cid-raVyTrfDvD .table:not(.last-table) {
+    margin-bottom: 1rem;
+  }
+  .cid-raVyTrfDvD .table-heading {
+    text-align: left;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-raVyTrfDvD .table.first-row-table {
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-raVyTrfDvD .table {
     margin-bottom: 0;
   }
 }
