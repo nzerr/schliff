@@ -800,7 +800,7 @@ body {
   outline: none;
 }
 .cid-raiLpTZt6C a.nav-link:focus {
-  color: #ffffff !important;
+  color: #3f855b !important;
 }
 .cid-raiLpTZt6C .navbar {
   min-height: 77px;
@@ -1064,7 +1064,7 @@ body {
 }
 .cid-raiLpTZt6C .nav-link:hover,
 .cid-raiLpTZt6C .icons-menu .mbr-iconfont:hover {
-  color: #ffffff !important;
+  color: #3f855b !important;
 }
 .cid-raiLpTZt6C .dropdown-item:hover {
   color: #878787 !important;
@@ -1076,7 +1076,7 @@ body {
   bottom: -0.5rem;
   width: 0;
   left: -1rem;
-  background: #ffffff;
+  background: #3f855b;
   transition: width 0.3s ease-in;
 }
 .cid-raiLpTZt6C .dropdown-menu {
